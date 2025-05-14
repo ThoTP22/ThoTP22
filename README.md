@@ -1,17 +1,18 @@
 # 👋 Hi there, I'm Trần Phú Thọ (@ThoTP22)
 
 🎓 I'm a Software Engineering student at **FPT University**  
-💻 Passionate about coding, problem solving, and building scalable systems  
-🌍 I love exploring new places and learning from different perspectives
+💻 Passionate about **coding** and **exploring the digital world**  
+🌍 I love **traveling** and finding inspiration in new places  
+♓ Zodiac Sign: **Pisces** – calm, creative, and always dreaming big 🐟
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently studying **Software Engineering**  
-- 👨‍💻 Interested in distributed systems, backend development, and data engineering  
-- ✈️ Love to **travel** and experience different cultures  
-- 🧠 Always learning something new — whether it’s a framework or a concept
+- 🔭 Studying Software Engineering at **FPT University**  
+- 💡 Interested in distributed systems, backend development, and cloud technologies  
+- ✈️ Addicted to **discovery trips** – both in the real world and in code  
+- 🧘‍♂️ Code is my flow – it's where logic meets imagination  
 
 ---
 
@@ -28,14 +29,14 @@
 
 - ✉️ Email: [thotpss150154@fpt.edu.vn](mailto:thotpss150154@fpt.edu.vn)  
 - 🌐 Portfolio: *(coming soon)*  
-- 🔗 LinkedIn: *(add if you have one)*  
+- 🔗 LinkedIn: *(optional)*  
 
 ---
 
 ## ⚡ Fun Fact
 
-> I can spend hours debugging code and still call it “relaxing” 😄
+> I'm a Pisces who codes like it's poetry — lost in the flow, found in the logic. 😄
 
 ---
 
-> _"Code is like humor. When you have to explain it, it’s bad."_ – Cory House
+> _“Stay soft, stay wild, stay curious. That’s how I build.”_
