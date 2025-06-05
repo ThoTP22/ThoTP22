@@ -21,7 +21,7 @@
 - **Languages**: Java, Python, TypeScript, JavaScript  
 - **Frameworks**: Spring Boot, Node.js, Next.js  
 - **Tools**: Docker, Git, Linux, Hadoop, Spark  
-- **Databases**: PostgreSQL, MongoDB, Redis
+- **Databases**: SQL server, MongoDB, Redis
 
 ---
 
